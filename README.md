@@ -1,7 +1,5 @@
-# COMP9417 Group Project - Group Numpy 
+# Feed-forward neural network (MLP) for regression + classification
 
-## Feed-forward neural network (MLP) for regression + classification
- Haocheng Li (Leo z5571326)
 ## Air Quality Forecasting Pipeline
 
 This repository contains an end-to-end pipeline for air-quality forecasting on the UCI Air Quality dataset. It covers:
